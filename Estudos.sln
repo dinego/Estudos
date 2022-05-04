@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudos.Application", "Estu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudos.Domain", "Estudos.Domain\Estudos.Domain.csproj", "{C3442936-4926-4F41-A6C1-BB4283F9349A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infra", "Infra\Infra.csproj", "{B204C8B6-B9D7-4801-94DB-9AC8A78196B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estudos.Infra", "Infra\Estudos.Infra.csproj", "{B204C8B6-B9D7-4801-94DB-9AC8A78196B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
